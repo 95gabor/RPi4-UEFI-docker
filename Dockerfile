@@ -2,7 +2,7 @@
 FROM ubuntu:22.04
 
 # Maintainer information
-LABEL maintainer="Pete Batard <pete@akeo.ie>"
+LABEL maintainer="Gabor Pichner, Pete Batard <pete@akeo.ie>"
 LABEL description="Dockerfile to build UEFI firmware for Raspberry Pi 4."
 
 # Set environment variables
